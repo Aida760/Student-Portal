@@ -1,0 +1,64 @@
+• Project Description 
+Your project will simulate a simple web application (PSUT Announcements & News Portal) with four core 
+pages: Welcome page, Login Page, Registration Page, and Announcements & News Page.  
+The requirements are as follows: 
+•       Core Requirements (15 Marks) 
+On all of the following pages, apply responsive design, appropriate colors, fonts, and spacing to enhance the overall 
+design, you have full creative freedom for the design. 
+o Welcome Page (2 Marks) 
+Design an attractive welcome page with static content to describe the purpose of the portal with link to the  
+login page. 
+o Registration Page (5 Marks) 
+1. The registration page must include a form with the following mandatory fields for (username, email,  
+school (DDL), password, confirm password). 
+2. Using HTML and JS, validate user inputs (ensuring fields are not empty, password complexity,  
+email format). 
+3. Using JS, Add a Show Password feature. 
+4. Using JS, Check the password and confirm password match before submission. 
+5. Check if the entered username is already taken during registration. 
+If it is, display a proper and secure error message. 
+6. Save the user's submitted information to the database. 
+7. Store passwords securely using hashing with salt. 
+8. On successful registration, redirect the user to the login page. 
+o Login Page (5 Marks) 
+1. The login page should include a form with fields for username and password. 
+2. Include link to the registration page. 
+3. Include link to back to the welcome page. 
+4. Using JS, add a Show Password feature. 
+5. Authenticate the user using the stored credentials. 
+6. Initiate and handle the session. 
+7. Redirect to the Announcements & News Page on success, or display a proper and secure error  
+message on failure. 
+King Hussein School for Information Technology Department of Cyber Security 
+Secure Web Design and Development 
+Spring Semester: 2024/2025 
+Project 
+o Announcements & News Page (3 Marks) 
+1. Design a page to show the PSUT Announcements & News (static content) in an attractive way. 
+2. At the top of this page, show the logged in username. 
+3. Include Texts, images and videos.  
+4. Include logout button to terminate the user's session and redirect them to the login page. 
+•       Additional Requirements for Group of Two (5 Marks) 
+o Server-Side Validation: Revalidate all form inputs on the server side. (2.5 Marks) 
+o Two-Factor Authentication: Implement an additional layer of security by requiring the user to verify 
+their identity via a second authentication step. (2.5 Marks) 
+•       Additional Requirements for Group of Three (5 Marks) 
+o Server-Side Validation: Revalidate all form inputs on the server side. (1.5 Marks) 
+o Two-Factor Authentication: Implement an additional layer of security by requiring the user to verify 
+their identity via a second authentication step. (1.5 Marks) 
+o Blocking Mechanism: implement a blocking mechanism to block the user for 5 minutes after 3  
+failed login attempts. (2 Marks) 
+•      Technologies to Use 
+o Frontend: HTML, CSS, JavaScript. 
+o Backend: PHP. 
+o Database: MySQL. 
+•        Deadline  
+14 May, 2025 11:59 PM. (Note that, for every day late, 5 marks will be deducted from the total score) 
+•     Submission Checklist 
+1. Zip file: All project files (HTML, CSS, JavaScript, PHP, SQL) are compressed into a single zip 
+file named like (Firstname_ID.zip) for submission, for group submission the group leader 
+should submit the file on behalf of his team. 
+2. Project documentation: including team leader, team members, their details, and 
+responsibilities. Briefly describe your work methodology and how the application works, as 
+well as screenshots walking through the application, showing each required 
+page/functionality. 
