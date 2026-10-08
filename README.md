@@ -37,14 +37,14 @@ This portal includes four main pages:
 ├── index.php            # Welcome/Home page
 ├── announcements.php    # Announcements & News page
 └── README.md            # Project documentation
-```
 
-## Setup Instructions
+
+Setup Instructions
 
 1. **Clone the repository**
-   ```
-   git clone [repository-url]
-   ```
+ 
+   git clone https://github.com/Aida760/Student-Portal
+  
 
 2. **Setup Database**
    - Create a MySQL database
